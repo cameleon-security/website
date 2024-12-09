@@ -1,0 +1,9 @@
+#temoignageImage{
+
+    width: 50px;
+
+}
+
+#arrow_left{
+    transform: rotate(180deg);
+}

@@ -1,0 +1,32 @@
+#missionsImage{
+    width: 450px;
+    right: 0;
+    order:1;
+}
+
+#textMissions{
+
+    font-family: 'Tinos';
+
+
+}
+
+#badges{
+
+    width: 100px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 50%;
+    padding: 19px;
+    background-color: white;
+    transition: transform 0.3s ease-out;
+
+
+}
+
+#badges:hover{
+
+     transform: scale(1.1);
+    
+}
+

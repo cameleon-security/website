@@ -1,0 +1,48 @@
+#formTitle{
+
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 34px;
+
+}
+
+#formSubTitle{
+
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    
+}
+
+#formImage{
+    width: 40px;
+}
+
+
+@media only screen and (max-width: 850px) {
+    
+    #formTitle{
+
+        font-size: 18px;
+    
+    }
+    
+        
+    #formSubTitle{
+
+        font-size:15px;
+        margin-left: 5px;
+        
+    }
+
+    #formImage{
+
+        width: 35px;
+
+    }
+
+  } 
